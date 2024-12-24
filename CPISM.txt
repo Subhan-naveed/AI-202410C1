@@ -1,0 +1,7 @@
+server is a high possessing speed machine which has unlimited data
+hyper text is that type of text through which can user navigate
+Markup: Text Based language, <> Tag define values inside it 
+Additional information of the tag is called attribute 
+2 types of elements block elements inline elements
+block level element is those type of elements jis mai khud break aajata hai
+inline elements jo apne baraber mai dosroo ko aanedede hain

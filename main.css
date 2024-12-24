@@ -1,0 +1,124 @@
+/* label{
+    color: rgba(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    font-family: monospace;
+}
+.table{
+
+    height: 50;
+    width: 50;
+  
+} */
+
+/* *{
+
+    margin:auto
+}
+
+.fcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    height: 1200px;
+    width: 1200px;
+    background-color: black;
+}
+
+.main{
+    height: 225px;
+    width: 380px;
+    background-color: rgb(255, 255, 255);
+} */
+
+*{
+    margin: auto;
+}
+
+.fcontainer{
+
+height: 3000px;
+width: 1500px;
+background-color: aqua;
+
+}
+header{
+    display: flex;
+    height: 100px;
+    width: 1500px;
+    background-color:aqua;
+color:rgb(0, 0, 0) ;
+   font-size: larger;
+}
+
+nav{
+height: 50px;
+width: 700px;
+background-color: beige;
+}
+nav ul{
+    
+    width: 600px;
+    display: flex;
+}
+
+.logo{
+height: 100px;
+width: 170px;
+background-color: black;
+
+}
+.logo img{
+    height: 100px;
+    width: 170px;
+}
+.slider{
+height: 700px;
+width: 1500px;
+background-color: grey;
+
+}
+
+.content{
+display: flex;
+flex-wrap: wrap;
+height: 1200px;
+width: 1500px;
+background-color: mediumslateblue;
+}
+.side{
+    height: 850px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+}
+    .side2{
+        height: 850px;
+        width: 300px;
+        background-color: rgb(255, 255, 255);
+    }
+
+    .box{
+    display: flex;
+    flex-wrap: wrap;
+    height: 850px;
+    width: 1130px;
+    background-color: aliceblue;
+
+}
+.box2{
+    height: 270px;
+    width: 1120px;
+    background-color: rgb(43, 153, 76);
+}
+
+
+
+
+footer{
+
+height: 200px;
+width: 1500px;
+background-color: black;
+
+}
